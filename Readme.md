@@ -12,7 +12,7 @@ yarn add isHermes
 ## Usage
 
 ```
-const isHermes = require('isHermes');
+import isHermes from 'is-hermes';
 
 if(isHermes()){
     // do something
