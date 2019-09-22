@@ -1,6 +1,6 @@
 {
   "name": "is-hermes",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple utility to check React Native Runtime is Hermes or not",
   "main": "index.js",
   "repository": "https://github.com/iamchathu/isHermes.git",
